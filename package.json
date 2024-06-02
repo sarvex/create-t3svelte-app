@@ -29,6 +29,6 @@
     "pkg-install": "^1.0.0"
   },
   "devDependencies": {
-    "prettier": "^2.7.1"
+    "prettier": "2.8.8"
   }
 }
